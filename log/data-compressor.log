@@ -1,0 +1,21 @@
+2022-03-17 00:10:21: VERBOSE: Calling: do_compress: '2022-03-16 2022-03 application1_data_'
+2022-03-17 00:10:21: WARN: Source file does not exist [/home/max/src/data-compressor/application1_data_2022-03-16.json]
+2022-03-17 00:10:21: VERBOSE: Calling: do_compress: '2022-03-16 2022-03 application2_data_'
+2022-03-17 00:10:21: WARN: Source file does not exist [/home/max/src/data-compressor/application2_data_2022-03-16.json]
+2022-03-17 00:10:21: VERBOSE: Calling: do_compress: '2022-03-16 2022-03 application3_data_'
+2022-03-17 00:10:21: WARN: Source file does not exist [/home/max/src/data-compressor/application3_data_2022-03-16.json]
+2022-03-17 00:10:21: VERBOSE:
+2022-03-17 00:12:19: VERBOSE: Calling: do_compress: '2022-03-16 2022-03 application1_data_'
+2022-03-17 00:12:19: INFO: Compressing: /home/max/src/data-compressor/data/application1_data_2022-03-16.json
+2022-03-17 00:12:19: VERBOSE: ionice -c 3 nice -n +19 7za a -t7z -mx=9 -mmt=off -sdel -w/home/max/src/data-compressor/data /home/max/src/data-compressor/data/application1_data_2022-03.centos8-stream-desk.7z ./application1_data_2022-03-16*
+2022-03-17 00:12:19: VERBOSE: Calling: do_compress: '2022-03-16 2022-03 application2_data_'
+2022-03-17 00:12:19: WARN: Source file does not exist [/home/max/src/data-compressor/data/application2_data_2022-03-16.json]
+2022-03-17 00:12:19: VERBOSE: Calling: do_compress: '2022-03-16 2022-03 application3_data_'
+2022-03-17 00:12:19: WARN: Source file does not exist [/home/max/src/data-compressor/data/application3_data_2022-03-16.json]
+2022-03-17 00:12:19: VERBOSE:
+2022-03-17 00:13:56: WARN: Source file does not exist [/home/max/src/data-compressor/data/application1_data_2022-03-16.json]
+2022-03-17 00:13:56: WARN: Source file does not exist [/home/max/src/data-compressor/data/application2_data_2022-03-16.json]
+2022-03-17 00:13:56: WARN: Source file does not exist [/home/max/src/data-compressor/data/application3_data_2022-03-16.json]
+2022-03-17 00:14:29: INFO: Compressing: /home/max/src/data-compressor/data/application1_data_2022-03-16.json
+2022-03-17 00:14:29: WARN: Source file does not exist [/home/max/src/data-compressor/data/application2_data_2022-03-16.json]
+2022-03-17 00:14:29: WARN: Source file does not exist [/home/max/src/data-compressor/data/application3_data_2022-03-16.json]

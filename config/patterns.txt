@@ -1,0 +1,7 @@
+# patterns.txt: line delimited file-name patterns for group file manipulation/compression
+# name part only, without YYYY-MM-DD.*
+application1_data_
+application2_data_
+application3_data_
+#
+# To set global source and destination dir use 'settings.sh'
